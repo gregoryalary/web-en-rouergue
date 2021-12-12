@@ -1,0 +1,11 @@
+---
+enable: true
+topTitle: Bonjour, nous sommes Web en Rouergue
+content: >
+  # Une association aveyronnaise à but non lucratif
+
+    Notre objectif est simple : collaborer avec les associations du Rouergue en leur
+    proposant de créer gratuitement les sites Web & applications dont ils ont besoin.
+buttonName: Travaillons ensemble
+buttonURL: contact
+image: images/hero/hero.jpg

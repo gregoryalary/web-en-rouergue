@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: À propos
+title: >
+  ## À propos de Web en Rouergue
+
+  Associations, vous méritez un beau site Web !
+content: >
+  ### Bonjour, je m'appelle Grégory 👋
+
+  Et j'ai 24 ans.<br/>
+  Passionné par les technologies du Web, j'ai obtenu mon master en Développement Logiciel en 2020 avant d'intégrer une entreprise Ruthénoise.
+  Attaché à mon territoire et à la vie de celui-ci, j'ai décidé de mettre à disposition mes compétences en développement logiciel pour soutenir les associations du Rouergue.<br/>
+  Souvent, les projets relatifs à l'informatique et au Web ne sont pas une priorité pour les associations, et ça se comprend ! Ce sont des processus qui peuvent devenir coûteux et engageants !
+  C'est pourquoi, j'ai eu envie de créér l'association Web en Rouergue, pour vous proposer de créer  **gratuitement**  votre site Web et de développer avec vous tout logiciel dont vous auriez besoin.
+button1Name: Travaillons ensemble
+button2Name: Nos réalisations
+button1Target: contact
+button2Target: portfolio
+image: images/about/about-img.jpg
